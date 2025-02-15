@@ -8,6 +8,8 @@ In contrast to V1, V2 uses AI generated images as the visuals for the video, ins
 
 In your `config.json`, you need the following attributes filled out, so that the bot can function correctly.
 
+something added by aaqib
+
 ```json
 {
   "firefox_profile": "The path to your Firefox profile (used to log in to YouTube)",
